@@ -1,1 +1,1 @@
-- Hi there 👋 I'm Irfan, I'm currently learning on Back-end Web Development with PH
+- Hi there 👋 I'm Irfan, I'm currently learning on Back-end Web Development with PHP
